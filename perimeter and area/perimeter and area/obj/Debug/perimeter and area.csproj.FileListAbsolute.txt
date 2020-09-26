@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\perimeter and area\perimeter and area\obj\Debug\perimeter and area.csprojAssemblyReference.cache
+C:\Users\User\source\repos\perimeter and area\perimeter and area\bin\Debug\perimeter and area.exe.config
+C:\Users\User\source\repos\perimeter and area\perimeter and area\bin\Debug\perimeter and area.exe
+C:\Users\User\source\repos\perimeter and area\perimeter and area\bin\Debug\perimeter and area.pdb
+C:\Users\User\source\repos\perimeter and area\perimeter and area\obj\Debug\perimeter and area.exe
+C:\Users\User\source\repos\perimeter and area\perimeter and area\obj\Debug\perimeter and area.pdb
